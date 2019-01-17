@@ -11,7 +11,7 @@
 ![demo](two_arms.png)
 
 # Demo
-A live demo of what IKpy can do : (click on the image below to see the video)
+Chen A live demo of what IKpy can do : (click on the image below to see the video)
 
 [![](http://img.youtube.com/vi/H0ysr5qSbis/0.jpg)](https://www.youtube.com/watch?v=H0ysr5qSbis)
 
